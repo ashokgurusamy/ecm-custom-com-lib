@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of cust-title
+ */
+export * from './lib/cust-title.service';
+export * from './lib/cust-title.component';
+export * from './lib/cust-title.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2N1c3QtdGl0bGUvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyx5QkFBeUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgY3VzdC10aXRsZVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2N1c3QtdGl0bGUuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9jdXN0LXRpdGxlLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9jdXN0LXRpdGxlLm1vZHVsZSc7XG4iXX0=
