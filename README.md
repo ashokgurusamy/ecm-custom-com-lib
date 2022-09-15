@@ -1,5 +1,9 @@
 # EcmCustomComLib
 
+
+This can be injected as dependency.
+For now, I have just created customTitle in it.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 ## Development server
